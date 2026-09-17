@@ -22,6 +22,9 @@ Desarrollar una aplicación multiplataforma para el seguimiento y control de inv
 
 ## Equipo de trabajo
 
+## Fechas
+
+
 - SM
 - DT1
 - DT2
