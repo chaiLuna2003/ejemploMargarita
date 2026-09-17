@@ -21,12 +21,10 @@ Desarrollar una aplicación multiplataforma para el seguimiento y control de inv
 - VSC
 
 ## Equipo de trabajo
-
-## Fechas
-
-
 - SM
 - DT1
+
+
 - DT2
 - DT3
 
